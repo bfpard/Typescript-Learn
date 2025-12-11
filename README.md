@@ -1,1 +1,1 @@
-# Frontend-learning
+# Typescript-learning
